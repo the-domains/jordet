@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Everyone does better when EVERYONE does better]]></title>
+        <description><![CDATA[Everyone does better when EVERYONE does better]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Dec 2015 02:25:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jay Sean Set Up On Bonnie Hunt]]></title>
+            <description><![CDATA[<article><h1>Jay Sean Set Up On Bonnie Hunt</h1><p>Fun Gig!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e58ab5f01ae82ec8a5886c6b5389b63e1216dc51.jpg"></article>]]></description>
+            <link>https://vimeo.com/7981972</link>
+            <guid isPermaLink="false">7db99245-eca3-40ff-b138-3912ee1dd931</guid>
+            <pubDate>Sat, 12 Dec 2015 02:25:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
