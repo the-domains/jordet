@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Everyone does better when EVERYONE does better]]></title>
         <description><![CDATA[Everyone does better when EVERYONE does better]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jordet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 02:25:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 02:35:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jordet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/594305107124101122/mSZ2ICHG.jpg">]]></description>
+            <link>https://twitter.com/jordet</link>
+            <guid isPermaLink="false">1cb871d7-2fd7-4f6c-b9cf-78d69d199350</guid>
+            <pubDate>Sat, 12 Dec 2015 02:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.ytimg.com/vi/3IfyqGKX9B8/maxresdefault.jpg">]]></description>
+            <link>https://www.google.com/search?q=jordet&amp;espv=2&amp;biw=1248&amp;bih=928&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ved=0ahUKEwjTjoWwoNXJAhVX2GMKHfXyAuMQsAQIKA#tbm=isch&amp;q=michael+jordet&amp;imgrc=oo8qwgpkzdRO_M%3A</link>
+            <guid isPermaLink="false">8766f01a-d886-4c9a-a90b-1aabac766067</guid>
+            <pubDate>Sat, 12 Dec 2015 02:27:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jay Sean Set Up On Bonnie Hunt]]></title>
             <description><![CDATA[<article><h1>Jay Sean Set Up On Bonnie Hunt</h1><p>Fun Gig!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e58ab5f01ae82ec8a5886c6b5389b63e1216dc51.jpg"></article>]]></description>
