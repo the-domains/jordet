@@ -1,7 +1,7 @@
 name: Jordet
 favicon: null
-layout_spectrum: 0.6558689761441201
-typography_spectrum: 0.7204478741623461
+layout_spectrum: 1
+typography_spectrum: 0.26838
 title: Everyone does better when EVERYONE does better
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8510618438012898
-  lightness: 0.6012439404148608
-  saturation: 0.7335635591298342
-  rhythmicContrast: 0.3455324932001531
+    - '#000000'
+    - '#ffffff'
+    - '#333333'
+    - '#a0a0a0'
+    - '#8661fe'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
