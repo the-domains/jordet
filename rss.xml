@@ -4,7 +4,7 @@
         <description><![CDATA[Everyone does better when EVERYONE does better]]></description>
         <link>https://thegrid.ai/jordet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 02:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 22:27:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jordet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 12 Dec 2015 02:27:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[This Year in Science 2015]]></title>
+            <description><![CDATA[<article><h1>This Year in Science 2015</h1><p>This year was HUGE for science! From robot intelligence to deep space exploration, we touched upon it all in this video compilation</p></article>]]></description>
+            <link>https://vimeo.com/150277612</link>
+            <guid isPermaLink="false">e441c5de-a14f-42e0-b190-efc372cb21d8</guid>
+            <pubDate>Wed, 30 Dec 2015 22:26:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Everybody is a genius]]></title>
-            <description><![CDATA[<article><h1>Everybody is a genius</h1><p>Favorite Quotes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7c7bfe61be3a25e4275bf5684dabac465aa448b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Everybody is a genius</h1><p>Favorite Quotes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5faec101b0cf913e325a87d552d5b84f30c695ad.jpg"></article>]]></description>
             <link>https://thegrid.ai/jordet/everybody-is-a-genius/index.html</link>
             <guid isPermaLink="false">7101e172-c2c8-4492-95de-0b9e202cb7f1</guid>
             <pubDate>Sat, 12 Dec 2015 02:49:26 GMT</pubDate>
